@@ -62,6 +62,7 @@ f. Ubuntu commands to deploy and run your server
   
 ###### Add collaborators for github
 
+    Go to Settings in CSE5335-project-1 respository in github and then click "Collaborators"
     Add GTA as collaborator for github        : emmons-uts
     Add Professor as collaborator for github  : samvarankashyap
 
