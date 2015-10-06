@@ -10,13 +10,12 @@ UTA ID	: 1001108398
 Netid	: sxs8398
 -----------
 
-Web Xml Project1
+Webdata Managment and  Xml Project1
 -----------
 
 Website               : https://cse5335-sxs8398.herokuapp.com/
-Server side framework : Ruby-on-rails
-Client Side framework : Jquery
 -----------
+
 
 a. Server side framework : Ruby-on-rails
 
@@ -40,7 +39,7 @@ e. OTHER than your client and server framework did you install
 
 f. Ubuntu commands to deploy and run your server
 
-### Github
+###### Github
 
     git init
     echo "# CSE5335-project-1" >> README.md
@@ -49,26 +48,24 @@ f. Ubuntu commands to deploy and run your server
     git push -u origin master
     git clone https://github.com/SarathKumar-Sivakumar/CSE5335-project-1.git
   
-### Put all the project files in the folder
+###### Put all the project files in the folder
 
     git commit -m "Second"
     git push
   
-### Add collaborators for github
+###### Add collaborators for github
 
     Add GTA as collaborator for github        : emmons-uts
     Add Professor as collaborator for github  : samvarankashyap
 
-### Heroku
+###### Heroku
 
     wget -O- https://toolbelt.heroku.com/install-ubuntu.sh | sh
     heroku login
     heroku create cse5335-sxs8398
     git push heroku master
 
-### Add collaborators for heroku
+###### Add collaborators for heroku
 
     GTA as collaborator                       : heroku sharing:add samvaran.rallabandi@mavs.uta.edu
     Professor as collaborator                 : heroku sharing:add emmons@uta.edu
-    
-s
